@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 2rem;
+  background: #492828;
+  color: #fff;
+
+  &__logo {
+    font-size: 2.2rem;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  &__logo > a{
+    color: white;
+    text-decoration: none;
+  }
+  
+  &__nav {
+    display: flex;
+    gap: 3rem;
+    font-size: 1.4rem;
+    padding-right: 12rem;
+
+    &-item {
+      text-decoration: none;
+      color: #fff;
+      transition: color 0.3s;
+
+      &:hover {
+        color: #aaa;
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+.products {
+  padding: 2rem;
+  &__title {
+    font-size: 2rem;
+    text-align: left;
+    margin-bottom: 8rem;
+    margin-left: 1.4rem;
+  }
+
+  &__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    gap: 2.5rem;
+    justify-items: center;
+    
+  }
+  
+}
+
