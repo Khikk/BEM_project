@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a8de687.css",
+    "main.js": "/static/js/main.ac366a75.js",
+    "static/media/why_page.jpg": "/static/media/why_page.1a4bcb92256f3097f9cb.jpg",
+    "static/media/sweather1.jpg": "/static/media/sweather1.50fe781f2479ce27b61b.jpg",
+    "static/media/hoodie2.jpg": "/static/media/hoodie2.c940b113ee7408d31d73.jpg",
+    "static/media/about_page.jpg": "/static/media/about_page.68623627d375522cc2a4.jpg",
+    "static/media/t-shirt3.jpg": "/static/media/t-shirt3.4a1251557294ca7b1857.jpg",
+    "static/media/jeans1.jpg": "/static/media/jeans1.dab7baed4efb359a4924.jpg",
+    "static/media/hoodie1.jpg": "/static/media/hoodie1.e260b1a9e71261715f76.jpg",
+    "static/media/t-shirt4.jpg": "/static/media/t-shirt4.6f26b545c11b9752eb34.jpg",
+    "static/media/t-shirt1.jpg": "/static/media/t-shirt1.740a9b9009dda2c67a53.jpg",
+    "static/media/home_back4.jpg": "/static/media/home_back4.e2a803f15be354119411.jpg",
+    "static/media/jeans2.jpg": "/static/media/jeans2.0a3bb02d6a88180f0a8c.jpg",
+    "static/media/vk.svg": "/static/media/vk.2c3c798bbf1487470c3ad70245232497.svg",
+    "index.html": "/index.html",
+    "static/media/ytb.svg": "/static/media/ytb.466715a5eec7ac0ba1825ec32b2030f6.svg",
+    "static/media/tg.svg": "/static/media/tg.d8d4bd18d24cb21ba2979f0469f11437.svg",
+    "main.8a8de687.css.map": "/static/css/main.8a8de687.css.map",
+    "main.ac366a75.js.map": "/static/js/main.ac366a75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a8de687.css",
+    "static/js/main.ac366a75.js"
+  ]
+}
