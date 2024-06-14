@@ -9,6 +9,7 @@
   }
 
   &__intro {
+    flex-grow: 1;
     background-image: url('../images/home_back4.jpg');
     background-size: cover;
     background-position: center;
@@ -29,7 +30,7 @@
       font-size: 1.6rem;
     }
 
-    .home__order-button {
+    &-order-button {
       margin-top: 120px;
       padding: 1.3rem 6rem;
       font-size: 1.2rem;
@@ -84,10 +85,13 @@
     &-text {
       flex: 1;
       padding-right: 2rem;
+      
+
 
       h2 {
         font-size: 2rem;
         margin-bottom: 1rem;
+        
       }
 
       p {
@@ -99,6 +103,7 @@
 
     &-image {
       max-width: 35%;
+      min-width: 300px;
       height: auto;
       border-radius: 10px;
     }
@@ -171,7 +176,7 @@
     transition: box-shadow 0.3s, transform 0.3s;
   }
   
-  .home__coupon .home__form-button {
+  .home__form-button {
     padding: 0.75rem 1.5rem;
     background: #c5c2c2;
     color: #473210;

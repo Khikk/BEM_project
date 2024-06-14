@@ -11,19 +11,32 @@
       padding: 1rem;
       text-align: center;
       
+      &-name {
+        font-size: 1.4rem;
+        margin: 0.5rem 0;
+      }
+      &-price {
+        font-size: 1.2rem;
+        font-weight: 600;
+        color: #555;
+      }
 
-    }
-    &__name {
-      font-size: 1.4rem;
-      margin: 0.5rem 0;
+      &-btn-cart{
+        background-color: #703535;
+        color: white;
+        padding: 0.5rem 3rem;
+        border: 1px solid rgb(195, 192, 192);
+        border-radius: 30px;
+        cursor: pointer;
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 600;
+        font-size: 14px;
+      }
     }
 
-    &__price {
-      font-size: 1.2rem;
-      font-weight: 600;
-      color: #555;
 
-    }
+
+
     &:hover {
       transform: scale(1.05);
     }

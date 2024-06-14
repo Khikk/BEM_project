@@ -8,7 +8,7 @@ const HomePage: React.FC = () => {
       <section className="home__intro">
         <h1>Добро пожаловать в Comfort Chic!</h1>
         <p>Ваш идеальный магазин для ваших лучших находок</p>
-        <button className="home__order-button">Заказать сейчас</button>
+        <button className="home__intro-order-button">Заказать сейчас</button>
       </section>
       {/* <section className="home__featured">
         <h2>Featured Products</h2>
@@ -30,7 +30,7 @@ const HomePage: React.FC = () => {
         <h2>Special Discount</h2>
         <p>Используй код <strong>CHIC20</strong> при оформлении и получи скидку в 20% на первый заказ!</p>
         <form className="home__form">
-          <input type="email" id="email" className="home__form-input" placeholder="Your email" />
+          <input type="email" id="email" className="home__form-input" placeholder="Ваш e-mail" />
           <button type="submit" className="home__form-button">Get Coupon</button>
         </form>
       </section>
